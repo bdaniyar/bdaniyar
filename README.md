@@ -10,7 +10,7 @@ Backend Developer | Python • FastAPI • SQLAlchemy • Docker
 
 ## 📫 Contact
 - Email: **daniarboranov3@gmail.com**  
-- Telegram: [@bordaniyar](https://t.me/bordaniyar)  
+- Telegram: [@bordaniyar](https://t.me/brdaniyar)  
 - LinkedIn: [Daniyar](http://linkedin.com/in/daniyar-boranov-857910374)  
 
 <!--
